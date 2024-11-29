@@ -16,6 +16,7 @@
     "List Movies": "Listado de Peliculas",
     "Delete Account": "Borrar cuenta",
     "Email": "Correo electrónico",
+    "Upload Image": "Subir Imagen",
     "email": "El campo :attribute no es un correo válido.",
     "Email Password Reset Link": "Enviar enlace para restablecer contraseña",
     "Encrypted environment file already exists.": "El archivo de entorno cifrado ya existe.",

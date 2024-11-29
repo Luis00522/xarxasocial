@@ -16,6 +16,7 @@
     "Delete Account": "Esborrar el compte",
     "Email": "Correu electrònic",
     "email": ":Attribute no és un e-mail vàlid",
+    "Upload Image": "Pujar Imatge",
     "Email Password Reset Link": "Enllaç per a restablir la contrasenya",
     "Encrypted environment file already exists.": "Encrypted environment file already exists.",
     "Encrypted environment file not found.": "Encrypted environment file not found.",
